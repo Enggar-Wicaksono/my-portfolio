@@ -80,7 +80,7 @@ export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Company Profile",
+    nama: "E-Menu",
     desk: "E-menu merupakan App Web yang memiliki tampilan yang responsible",
     tools: ["HTML", "CSS", "Javascript", "Fillament", "Laravel"],
     dad: "300",
