@@ -70,9 +70,9 @@ export const listTools = [
   },
 ];
 
-import Proyek1 from "/assets/proyek/proyek1.webp";
-import Proyek2 from "/assets/proyek/proyek2.webp";
-import Proyek3 from "/assets/proyek/proyek3.webp";
+import Proyek1 from "./assets/proyek1.jpg";
+import Proyek2 from "./assets/proyek2.jpg";
+
 
 
 export const listProyek = [
@@ -81,8 +81,8 @@ export const listProyek = [
     id: 1,
     gambar: Proyek1,
     nama: "Company Profile",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
+    desk: "E-menu merupakan App Web yang memiliki tampilan yang responsible",
+    tools: ["HTML", "CSS", "Javascript", "Fillament", "Laravel"],
     dad: "300",
   },
   
@@ -90,17 +90,10 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Web Portfolio",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["HTML", "CSS", "Javascript", "Bootsrap"],
+    nama: "Coming Soon",
+    desk: "Coming Soon",
+    tools: ["HTML", "TailwindCSS", "Javascript"],
     dad: "600",
   },
-  {
-    id:3,
-    gambar: Proyek3,
-    nama: "Company Profile 2.0",
-    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["NextJS", "TailwindCSS", "Framermotion"],
-    dad: "700",
-  },
+ 
 ];

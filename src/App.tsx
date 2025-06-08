@@ -12,10 +12,10 @@ function App() {
           <q>Desain dan fungsionalitas harus berjalan beriringan..👍👍</q>
         </div>
         
-        <h1 className="text-5xl/tight font-bold mb-6">Hai.. Selamat Datang di My Porlfolio</h1>
+        <h1 className="text-5xl/tight font-bold mb-6">Hai.. Selamat Datang di My Portfolio</h1>
         <p className="text-base/loose mb-6 opacity-50"> Saya memiliki ketertarikan yang kuat di bidang Teknologi Informasi, khususnya dalam IT Infrastruktur, Pemrograman, dan Desain. Saat ini, saya sedang membangun karier di dunia teknologi dengan mempelajari pada pengembangan web (web development) dan desain antarmuka pengguna (UI/UX).</p>
         <div className="flex items-center sm:gap-4 gap-2">
-          <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download <i className="ri-download-line ri-lg"></i></a> 
+          <a href="/public/MY CV.pdf" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download <i className="ri-download-line ri-lg"></i></a> 
           <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">Lihat Proyek<i className="ri-arrow-down-line ri-lg"></i></a>
         </div>
       </div>
