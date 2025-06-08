@@ -9,12 +9,11 @@ function App() {
       <div className="animate__animated animate__fadeInLeft animate__delay-3s">
         <div className="flex items-center gap-3 mb-6 bg-sky-700 w-fit p-4 rounded-2xl">
           <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" />
-          <q>Seni adalah Ledakan.👌</q>
+          <q>Desain dan fungsionalitas harus berjalan beriringan..👍👍</q>
         </div>
         
-        <h1 className="text-5xl/tight font-bold mb-6">Hi, Saya Enggar Wicaksono</h1>
-        <p className="text-base/loose mb-6 opacity-50">  saya mempunyai ketertarikan dalam bidang Programing dan designer yang sedang membangun karier di bidang teknologi dengan fokus pada web development dan desain antarmuka. 
-        </p>
+        <h1 className="text-5xl/tight font-bold mb-6">Hai.. Selamat Datang di My Porlfolio</h1>
+        <p className="text-base/loose mb-6 opacity-50"> Saya memiliki ketertarikan yang kuat di bidang Teknologi Informasi, khususnya dalam IT Infrastruktur, Pemrograman, dan Desain. Saat ini, saya sedang membangun karier di dunia teknologi dengan mempelajari pada pengembangan web (web development) dan desain antarmuka pengguna (UI/UX).</p>
         <div className="flex items-center sm:gap-4 gap-2">
           <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download <i className="ri-download-line ri-lg"></i></a> 
           <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">Lihat Proyek<i className="ri-arrow-down-line ri-lg"></i></a>
@@ -28,8 +27,8 @@ function App() {
       <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 border border-zinc-400 bg-sky-700 rounded-2xl " data-aos="fade-up" data-aos-duration="1000">
         <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md mb-10 sm:hidden" />
         <p className="text-base/loose mb-10">
-          Hi, perkenalkan saya Enggar Wicaksono, seorang Full stack Web Developer dan Designer,
-          Saya percaya desain dan fungsionalitas harus berjalan beriringan, sehingga setiap proyek yang saya kembangkan
+          Hi, perkenalkan saya Enggar Wicaksono, seorang yang memiliki ketertarikan yang kuat di bidang Teknologi Informasi,
+          Saya percaya desain dan fungsionalitas harus berjalan beriringan, sehingga setiap proyek yang di kembangkan
           tidak hanya terlihat menarik tetapi juga memberikan pengalaman pengguna yang optimal.
         </p>
         <div className="flex items-center justify-between">
@@ -37,7 +36,7 @@ function App() {
           <div className="flex items-center gap-6">
             <div>
               <h1 className="text-4xl mb-1">
-                3<span className="text-violet-500">+</span>
+                1<span className="text-violet-500">+</span>
               </h1>
               <p>Proyek Selesai</p>
             </div>
