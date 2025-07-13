@@ -8,11 +8,14 @@ export default Image;
 
 import Tools1 from "/assets/tools/vscode.png";
 import Tools2 from "/assets/tools/reactjs.png";
-import Tools3 from "/assets/tools/nextjs.png";
-import Tools4 from "/assets/tools/tailwind.png";
-import Tools5 from "/assets/tools/bootstrap.png";
-import Tools6 from "/assets/tools/js.png";
-import Tools7 from "/assets/tools/nodejs.png";
+import Tools3 from "/assets/tools/tailwind.png";
+import Tools4 from "/assets/tools/js.png";
+import Tools5 from "/assets/tools/github.png";
+import Tools6 from "/assets/tools/canva.png";
+import Tools7 from "/assets/tools/figma.png";
+
+
+
 
 export const listTools = [
   {
@@ -70,8 +73,11 @@ export const listTools = [
   },
 ];
 
+
 import Proyek1 from "./assets/proyek1.jpg";
 import Proyek2 from "./assets/proyek2.jpg";
+import Proyek3 from "./assets/proyek3.jpg";
+import Proyek4 from "./assets/proyek4.jpg";
 
 
 
@@ -81,15 +87,36 @@ export const listProyek = [
     id: 1,
     gambar: Proyek1,
     nama: "E-Menu",
-    desk: "E-menu merupakan App Web yang memiliki tampilan yang responsible",
-    tools: ["HTML", "CSS", "Javascript", "Fillament", "Laravel"],
-    dad: "300",
+    desk: "E-menu is a Web App with a responsible display.",
+    tools: ["TailwindCSS", "Javascript", "Fillament", "Laravel"],
+    dad: "600",
+    link: "https://son-e-menu.my.id/sweety"
   },
   
  
   {
     id: 2,
     gambar: Proyek2,
+    nama: "Coffee Shop website",
+    desk: "Responsible Coffee Shop landing page website",
+    tools: ["HTML", "TailwindCSS", "Vite", "React"],
+    dad: "600",
+    link: "https://kopi-son.vercel.app"
+  },
+
+   {
+    id: 3,
+    gambar: Proyek3,
+    nama: "Arikel Website",
+    desk: "Article Website with Laravel and Filament",
+    tools: ["Laravel", "TailwindCSS", "Javascript", "Fillament"],
+    dad: "600",
+    link: "https://sonnews.my.id/"
+  },
+
+   {
+    id: 4,
+    gambar: Proyek4,
     nama: "Coming Soon",
     desk: "Coming Soon",
     tools: ["HTML", "TailwindCSS", "Javascript"],
