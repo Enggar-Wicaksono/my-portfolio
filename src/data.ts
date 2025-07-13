@@ -107,8 +107,8 @@ export const listProyek = [
    {
     id: 3,
     gambar: Proyek3,
-    nama: "Arikel Website",
-    desk: "Article Website with Laravel and Filament",
+    nama: "Website Portal Berita",
+    desk: "Website Portal Berita with Laravel and Filament",
     tools: ["Laravel", "TailwindCSS", "Javascript", "Fillament"],
     dad: "600",
     link: "https://sonnews.my.id/"
