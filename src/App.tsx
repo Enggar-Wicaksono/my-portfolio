@@ -15,7 +15,7 @@ function App() {
         <h1 className="text-5xl/tight font-bold mb-6">Welcome to My Portfolio</h1>
         <p className="text-base/loose mb-6 opacity-50"> I have a strong interest in Information Technology, especially in IT Infrastructure, Programming, and Design. Currently, I am building a career in technology by studying web development and UI/UX design.</p>
         <div className="flex items-center sm:gap-4 gap-2">
-          <a href="https://drive.google.com/uc?export=download&id=1089qH8SJ9eobsKjWiDGk7TTCp27kFVig" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download <i className="ri-download-line ri-lg"></i></a> 
+          <a href="https://drive.google.com/uc?export=download&id=1xalKOASwXMe2iq1huFqm4rDWKx8wLoZx" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download <i className="ri-download-line ri-lg"></i></a> 
           <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">View Project<i className="ri-arrow-down-line ri-lg"></i></a>
         </div>
       </div>
